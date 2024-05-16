@@ -1,0 +1,18 @@
+%%MatrixMarket matrix coordinate pattern general
+%-------------------------------------------------------------------------------
+% UF Sparse Matrix Collection, Tim Davis
+% http://www.cise.ufl.edu/research/sparse/matrices/HB/ibm32
+% name: HB/ibm32
+% [UNSYMMETRIC PATTERN ON LEAFLET ADVERTISING IBM 1971 CONFERENCE]
+% id: 168
+% date: 1971
+% author: IBM
+% ed: A. Curtis, I. Duff, J. Reid
+% fields: title A name id date author ed kind
+% kind: directed graph
+%-------------------------------------------------------------------------------
+32 32 4
+3 3
+2 1
+3 1
+1 20
